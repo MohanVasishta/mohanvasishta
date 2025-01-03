@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋  
+I'm Mohan, an R Shiny developer passionate about creating interactive dashboards and data-driven applications.
 
-<!--
-**MohanVasishta/mohanvasishta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills  
+- **Programming**: R, Python  
+- **Frameworks**: R Shiny, ggplot2, Highcharter  
+- **Tools**: RStudio, Shiny Server, Git  
+- **Specialties**: Data Visualization, Dashboard Development, Statistical Analysis  
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects  
+### [Sales Dashboard](https://github.com/yourusername/sales_dashboard)  
+An interactive Shiny app for sales trend analysis.  
+- 📊 Visualizes sales by region, product, and time.  
+- 🔧 Built with ggplot2 and dplyr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Healthcare Analytics](https://github.com/yourusername/healthcare_analytics)  
+A dashboard for analyzing patient data.  
+- 📈 Includes time-series and KPI visualizations.  
+- 🏥 Designed for healthcare organizations.
+
+## 🤝 Let's Collaborate  
+I'm open to freelance projects and collaborations!  
+- 📫 Email: [mohankumargs77@gmail.com]  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/mohan-kumar-774807224/]
+
+---
+
+🌱 *Fun Fact*: I love hiking and exploring data science blogs when I'm not coding!
